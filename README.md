@@ -18,5 +18,8 @@ These devices use the following AI technologies:
 5. The AI system processes the request and determines the appropriate response or action.
 6. The speaker provides a voice response or performs the requested task.
 Example: When the user says, “Alexa, turn on the lights,” the smart speaker recognizes the command, interprets the intention, and sends a signal to the compatible smart lighting system.
+#PICTURE
+<img width="1253" height="689" alt="Screenshot 2026-10-29 085724" src="https://github.com/user-attachments/assets/9101b09e-8ae4-419c-a620-9c423fdc419b" />
+
 # RESULT
 The application of Artificial Intelligence in smart speakers was studied successfully. The roles of speech recognition, NLP, machine learning, and voice assistant technology in understanding voice commands and providing intelligent services were understood. Smart speakers improve convenience, accessibility, and home automation, although privacy and security remain important considerations.
